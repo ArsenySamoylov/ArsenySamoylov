@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="left">Arseny Samoylov </h1>
-<h3 align="left">MIPT DREC Student (1rd course)</h3>
+<h3 align="left">MIPT DREC Student (1st course)</h3>
 
 ## Contacts
 * Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu)
