@@ -15,8 +15,8 @@
 * Backend for x86 for my own language
   * [x86 Backend](https://github.com/ArsenySamoylov/SecondSemester/tree/master/x86BackEnd) 
 
-* Labatory work for optimization HashTable
+* Labatory work: HashTable optimizations
   * [HashTable Research](https://github.com/ArsenySamoylov/SecondSemester/tree/master/HashTable)
 
 * My simple programming language
-  * [GArsLang](https://github.com/ArsenySamoylov/Lang.git) 
+  * [AALang](https://github.com/ArsenySamoylov/Lang.git) 
