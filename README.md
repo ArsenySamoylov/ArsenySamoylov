@@ -12,6 +12,9 @@
 * VK: [vk.com/arseny_samoylov](https://vk.com/arseny_samoylov)
 
 ## Key projects
+* Micro-kernel for x86 (repository may be private due to course restrictions)
+    * [JOS](https://github.com/ArsenySamoylov/JOS_GPU)
+    
 * Backend for x86 for my own language
   * [x86 Backend](https://github.com/ArsenySamoylov/SecondSemester/tree/master/x86BackEnd) 
 
