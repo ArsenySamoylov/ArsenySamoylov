@@ -14,7 +14,7 @@
 
 ## Key projects
 * Micro-kernel for x86 (repository may be private due to course restrictions)
-    * [virtion GPU](https://github.com/ArsenySamoylov/JOS_GPU)
+    * [virtio GPU](https://github.com/ArsenySamoylov/JOS_GPU)
     * [SSH server](https://github.com/jos-ssh/itask)
     
 * Backend for x86 for my own language
