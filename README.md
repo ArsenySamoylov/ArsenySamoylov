@@ -9,8 +9,8 @@
 ## Contacts
 * Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu) [samoylov.arseny@gmail.com](mailto:samoylov.arseny@gmail.com)
 * GitLab: [ArsenySamoylov](https://gitlab.com/ArsenySamoylov)
-* Telegram: [@Ivalox](https://telegram.me/ivalox)
-* VK: [vk.com/arseny_samoylov](https://vk.com/arseny_samoylov)
+* Telegram: [ivalox](https://telegram.me/ivalox)
+* VK: [arseny_samoylov](https://vk.com/arseny_samoylov)
 
 ## Key projects
 * Micro-kernel for x86 (repository may be private due to course restrictions)
