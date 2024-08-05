@@ -3,8 +3,8 @@
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
 </p>
 
-<h1 align="left">Arseny Samoylov </h1>
-<h3 align="left">MIPT DREC Student (3st course)</h3>
+<h1 align="left">Arseny Samoylov</h1>
+<h3 align="left">MIPT student</h3>
 
 ## Contacts
 * Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu) [samoylov.arseny@gmail.com](mailto:samoylov.arseny@gmail.com)
