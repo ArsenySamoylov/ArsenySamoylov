@@ -14,10 +14,9 @@
 
 ## Key projects
 * Micro-kernel for x86 (repository may be private due to course restrictions)
-    * [JOS](https://github.com/ArsenySamoylov/JOS_GPU)
+    * [virtion GPU](https://github.com/ArsenySamoylov/JOS_GPU)
+    * [SSH server](https://github.com/jos-ssh/itask)
     
 * Backend for x86 for my own language
+  * [my simple programming language](https://github.com/ArsenySamoylov/Lang) 
   * [x86 Backend](https://github.com/ArsenySamoylov/SecondSemester/tree/master/x86BackEnd) 
-
-* My simple programming language
-  * [AALang](https://github.com/ArsenySamoylov/Lang.git) 
