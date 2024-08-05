@@ -7,7 +7,8 @@
 <h3 align="left">MIPT DREC Student (3st course)</h3>
 
 ## Contacts
-* Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu)
+* Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu) [samoylov.arseny@gmail.com](mailto:samoylov.arseny@gmail.com)
+* GitLab: [ArsenySamoylov](https://gitlab.com/ArsenySamoylov)
 * Telegram: [@Ivalox](https://telegram.me/ivalox)
 * VK: [vk.com/arseny_samoylov](https://vk.com/arseny_samoylov)
 
@@ -17,9 +18,6 @@
     
 * Backend for x86 for my own language
   * [x86 Backend](https://github.com/ArsenySamoylov/SecondSemester/tree/master/x86BackEnd) 
-
-* Labatory work: HashTable optimizations
-  * [HashTable Research](https://github.com/ArsenySamoylov/SecondSemester/tree/master/HashTable)
 
 * My simple programming language
   * [AALang](https://github.com/ArsenySamoylov/Lang.git) 
