@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://img.shields.io/badge/Age-20-blue" />
+    <img src="https://img.shields.io/badge/Age-21-blue" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
 </p>
 
@@ -9,7 +9,7 @@
 ## Contacts
 * Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu) [samoylov.arseny@gmail.com](mailto:samoylov.arseny@gmail.com)
 * GitLab: [ArsenySamoylov](https://gitlab.com/ArsenySamoylov)
-* Telegram: [ivalox](https://telegram.me/ivalox)
+* Telegram: [ArsenySamoylov](https://telegram.me/ArsenySamoylov)
 * VK: [arseny_samoylov](https://vk.com/arseny_samoylov)
 
 ## Key projects
