@@ -1,16 +1,9 @@
-<p align="left">
-    <img src="https://img.shields.io/badge/Age-21-blue" />
-    <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
-</p>
-
 <h1 align="left">Arseny Samoylov</h1>
-<h3 align="left">MIPT student</h3>
 
 ## Contacts
 * Email: [samoilov.as@phystech.edu](mailto:samoilov.as@phystech.edu) [samoylov.arseny@gmail.com](mailto:samoylov.arseny@gmail.com)
 * GitLab: [ArsenySamoylov](https://gitlab.com/ArsenySamoylov)
 * Telegram: [ArsenySamoylov](https://telegram.me/ArsenySamoylov)
-* VK: [arseny_samoylov](https://vk.com/arseny_samoylov)
 
 ## Key projects
 * Micro-kernel for x86 (repository may be private due to course restrictions)
